@@ -1,0 +1,13 @@
+td {
+    width: 30px;
+    height: 30px;
+}
+
+td {
+    outline: 1px solid white;
+}
+
+body {
+    background: black;
+    color: white;
+}
